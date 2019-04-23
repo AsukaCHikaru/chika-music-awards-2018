@@ -1,0 +1,393 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Noto+Sans:700|BenchNine:700');
+a:visited{
+    color: inherit;
+}
+.App {
+    font-size: 16px;
+    overflow-y: auto;
+    background-color: #323232;
+    min-height: 100vh;
+}
+.wrapper{
+    margin-left: 12vw;
+    margin-right: 12vw;
+    display: grid;
+}
+.navibar{
+    background-color: #FFF;
+    border-bottom: #D4AF37 0.3vw solid;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    .brand{
+        font-family: 'BenchNine', sans-serif;
+        font-size: 2.5em;
+        text-decoration: none;
+        margin-left: 1vw;
+        color: #000;
+    }
+    
+    h2{
+        font-family: 'Anton', sans-serif;    
+        color: #323232;
+        margin: auto;
+        font-size: 1.5em;
+        line-height: 1em;
+        font-weight: lighter;
+        transition: opacity 0.2s ease;
+    }
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;    
+    min-height: 12vw;
+    padding-top: 5vw;
+ 
+    a{
+        text-decoration: none;
+        color: #9f9f9f;    
+        font-weight: 500;
+    }
+
+    span{
+        line-height: 1em;
+    }
+
+    .placeholder{
+        min-width: 50vw;
+    }
+}
+.title::-webkit-scrollbar{
+    display: none;
+}
+.awardDiv{
+    text-align: center;
+    margin: auto 0 auto 0;
+    padding: 1em;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: #9f9f9f;
+    font-size: 1.5em;
+    font-family: 'Anton', sans-serif;    
+    line-height: 1em;
+    margin: auto;
+
+    a:hover{
+        color: #FFF;
+    }
+
+    a.renderingBy{
+        font-size: 2em;
+        color: #FFF;
+    }
+
+    a.renderingBy:visited{
+        color: #FFF;
+    }
+}
+.awardDiv.year{
+    font-size: 2.8em;
+}
+.cardList {
+    margin-bottom: 10vw;
+    display: grid;
+    grid-template: 10vw 3fr repeat(2, 2.5fr)/ 1fr 1fr;
+    height: 50vw;
+
+    .cardListTitleDiv{
+        grid-area: 1/ 1/ 2/ span 2;    
+        display: grid; 
+        grid-template-columns: 4fr 1fr;   
+        position: relative;
+        margin-bottom: 0.5em;
+        border: 0.2vw #323232 solid;
+        border-bottom-style: none;    
+    }
+    
+    .cardList:first-of-type{
+        margin-top: 5vw;
+    }
+
+    .cardListTitle{
+        margin: 0;
+        position: absolute;
+        bottom: 0;
+        
+        h1{
+            font-family: 'Anton', sans-serif;
+            color: #E1E1E1;
+            margin: 0;
+            font-size: 3.8em;
+            line-height: 0.8em;
+            font-weight: 400;
+        }
+
+        .archive{
+            grid-column-start: 2;            
+        }
+    }
+}
+.archive a{
+    font-size: 1.2em;
+    color: #E1E1E1;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 1em;
+}
+.archive a:hover{
+    text-decoration-line: underline;
+}
+.recordCard {
+    background-color:#444;
+    color: #AAA;
+    margin: 0.2vw;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    
+    .recordImg{
+        display: grid;
+        background-color: silver;
+
+        img {    
+            border: solid 0.25vw silver;
+            max-height: 11vw;
+        }
+    }
+    .recordData {
+        text-align: left;
+        margin: 0;
+        padding-left: 0.5em;
+        
+
+        h2{
+            margin: 0.3em 0 0 0;
+            font-size: 2em;
+            font-weight: 750;
+        }
+
+        h3{
+            font-size: 1.3em;
+            margin: 0.1em 0 0 0;
+            line-height: 1.3em;
+        }
+    }
+}
+.won {       
+    background-color: #DAA520;
+    grid-area: 2/ 1/ 3/ span 2;
+    font-size: 25px;
+    color: #323232;
+
+    .recordImg{
+        img{
+            border-width: 0.5vw;
+            border-color: #DAA520;
+            max-height: 17vw;
+        }
+    }
+
+}
+h3.artist{
+    padding-top: 0.5em;
+}
+
+/*-------------------------------------------------
+media query
+-------------------------------------------------*/
+
+@media screen and (max-width: 1400px){
+    .App{
+        font-size: 14px;        
+    }
+    .title{
+        min-height: 12vw;
+    }
+
+    .recordCard{
+        .recordData{
+            h2{
+                font-size: 1.8em;
+            }
+            h3{
+                font-size: 1.3em;
+            }
+        }
+    }
+    .won{
+        font-size: 1.6em;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .App{
+        font-size: 12px;    
+    }
+    .wrapper{
+        margin-left: 10vw;
+        margin-right: 10vw;
+    }
+    .title{
+        min-height: 14vw;
+        font-size: 1.2em;
+    }
+    .recordCard{
+        .recordData{
+            h2{
+                font-size: 1.7em;
+            }
+            h3{
+                font-size: 1.3em;
+            }
+        }        
+    }
+    .won{
+        font-size: 1.6em;
+    }
+}
+@media screen and (max-width: 1000px){
+    .App{
+        font-size: 10px;    
+    }
+    .wrapper{
+        margin-left: 8vw;
+        margin-right: 8vw;
+    }
+    .navibar{
+        border-width: 0.35vw;
+        .brand{
+            font-size: 3em;
+        }
+        h2{
+            font-size: 1.8em;
+        }
+    }
+    .title{
+        min-height: 13vw;
+        font-size: 1.2em;
+    }
+    .recordCard{
+        .recordData{
+            h2{
+                font-size: 1.7em;
+            }
+            h3{
+                font-size: 1.3em;
+            }
+        }        
+    }
+    .won{
+        font-size: 1.6em;
+    }
+    
+}
+@media screen and (max-width: 800px){
+    .App{
+        font-size: 7.9px;    
+    }
+    .navibar{
+        border-width: 0.38vw;
+        .brand{
+            font-size: 3.5em;
+        }
+        h2{
+            font-size: 2em;
+        }
+    }
+    .title{
+        min-height: 16vw;
+        font-size: 1.3em;
+    }
+    a.renderingBy{
+        font-size: 5em;
+    }
+
+    .cardListTitleDiv{
+        .archive{
+            font-size: 1.3em;
+        }
+    }
+}
+@media screen and (max-width: 600px){
+    .App{
+        font-size: 6.7px;    
+    }
+    .navibar{
+        border-width: 0.43vw;
+    }
+    .title{
+        min-height: 18vw;
+        font-size: 1.4em;
+    }
+}
+@media screen and (max-width: 500px){    
+    .App{
+        font-size: 5.4px;    
+    }
+    .cardListTitle{
+        font-size: 0.8em;
+    }
+    .title{
+        min-height: 20vw;
+        font-size: 1.6em;
+    }
+    .navibar{
+        border-width: 0.45vw;
+        .brand{
+            font-size: 3.8em;
+        }
+        h2{
+            font-size: 2.5em;
+        }
+    }
+}
+@media screen and (max-width: 420px){
+    .App{
+        font-size: 4.5px;    
+    }
+    .title{
+        min-height: 24vw;
+        font-size: 1.8em;
+    }
+    .navibar{
+        border-width: 0.6vw;
+        .brand{
+            font-size: 3.7em;
+        }
+        h2{
+            font-size: 2.6em;
+        }
+    }
+    h3.artist{
+        padding-top: 0.3em;
+    }
+    .cardListTitleDiv{
+        .archive{
+            font-size: 1.4em;
+        }
+    }
+}
+@media screen and (max-width: 340px){
+    .App{
+        font-size: 4.2px;    
+    }
+    .title{
+        min-height: 27vw;
+        font-size: 1.8em;
+    }
+    .navibar{
+        .brand{
+            font-size: 3.55em;
+        }
+        h2{
+            font-size: 2.6em;
+        }
+    }
+    h3.artist{
+        padding-top: 0.2em;
+    }
+}

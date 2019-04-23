@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Noto+Sans:700|BenchNine:700');
+
+body{
+  background-color: #323232;
+}
+
+nav{
+  background-color: #FFF;
+  border-bottom: 4px gold solid;
+}
+.navbar-brand{
+  font-family: 'BenchNine', sans-serif;
+  color: #323232;
+  font-size: 3em;
+  padding: 0;
+  line-height: 1em;
+
+}
+.navbar-brand:hover{
+  color: #606060;
+}
+h4{
+  font-family: 'Anton', sans-serif;
+  color: #FFFFFF;
+  font-size: 7em;
+  padding: 0.5em 0 0.5em 0;
+}
+.index{
+  background-color: #FFF;
+  margin: 0 auto 1% auto;
+}
+.list{
+  margin: 0 0 10% 0;
+}
+.list div{
+  padding: 0;
+  margin: 0;
+}
+.title h1{
+  font-family: 'Anton', sans-serif;
+  color: #FFF;
+  font-size: 4em;
+  font-weight: 400;
+  margin: 0;
+  position: relative;
+  display: inline-block;
+}
+.title a{
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  color: #FFF;
+}
+.nominee{
+  border: solid 2px #323232;
+  background-color: #FFF;
+  font-size: 16px;
+}
+.song-name{
+  font-size: 1.5em;
+  font-weight: 700;
+}
+.featuring{
+  top: 0.4em;
+  margin: 0;
+}
+.artist{
+  top: 1em;
+  color: #909090;
+  font-weight: 700;
+}
+.nominee h2, h3{
+  font-family: 'Noto Sans', 'Noto Sans Japanese', sans-serif;
+  position: relative;
+  left: 0.3em;
+}
+.nominee h2{
+  top: 0.55em;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #323232;
+}
+.nominee h3{
+  font-size: 1.1em;
+}
+
+img{
+  display: inline-block;
+  float: left;
+  width: 100%;
+  padding: 0;
+  border: solid 2px silver;
+}
+.nominee div{
+  width: 95%;
+}
+.won, .won > div{
+  background: #f9ff83;
+  font-size: 25px;
+}
+.won img{
+  border-color: gold;
+}
+
+@media screen and (max-width: 1200px){
+  .navbar-brand{
+    font-size: 2.5em;
+  }
+  h4{
+    font-size: 6em;
+  }
+
+  .title h1{
+    font-size: 3.4em;
+  }
+  .title a{
+    font-size: 0.9em;
+  }
+  .nominee h2{
+    font-size: 1.3em;
+  }
+  .nominee h3{
+    font-size: 1em;
+  }
+  .featuring{
+    top: 0.25em;
+  }
+  .artist{
+    top: 0.8em;
+  }
+}
+
+@media screen and (max-width: 992px){
+  .navbar-brand{
+    font-size: 2.2em;
+  }
+  h4{
+    font-size: 5em;
+  }
+  .title h1{
+    font-size: 2.5em;
+  }
+  .title a{
+    font-size: 0.7em;
+  }
+  .nominee h2{
+    top: 0.4em;
+    font-size: 1.1em;
+  }
+  .nominee h3{
+    font-size: 0.8em;
+  }
+  .featuring{
+    top: 0.1em;
+  }
+  .artist{
+    top: 0.6em;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .navbar-brand{
+    font-size: 2.2em;
+  }
+  h4{
+    font-size: 4em;
+  }
+  .title h1{
+    font-size: 2em;
+  }
+  .title a{
+    font-size: 0.6em;
+  }
+  .nominee h2{
+    top: 0.4em;
+    font-size: 0.8em;
+  }
+  .nominee h3{
+    font-size: 0.55em;
+  }
+  .featuring{
+    top: 0;
+  }
+  .artist{
+    top: 0.6em;
+  }
+}
+
+@media screen and (max-width: 575px){
+  .navbar-brand{
+    font-size: 1.7em;
+  }
+  h4{
+    font-size: 3.5em;
+  }
+  .title h1{
+    font-size: 1.5em;
+  }
+  .title a{
+    font-size: 0.5em;
+  }
+  .nominee h2{
+    top: 0.4em;
+    font-size: 0.65em;
+  }
+  .nominee h3{
+    font-size: 0.45em;
+  }
+  .featuring{
+    top: -0.2em;
+  }
+  .artist{
+    top: 0.4em;
+  }
+}

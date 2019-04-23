@@ -1,0 +1,1313 @@
+{
+    "2009": {
+        "music": {
+            "0": {
+                "songName": "Heavy Starry Chain",
+                "artist": "Tommy heavenly6",
+                "featuring": " ",
+                "imgFileName": "gothicMeltingIcecreamDarknessNightmare",
+                "won": true
+            },
+            "1": {
+                "songName": "I♡Xmas",
+                "artist": "Tommy heavenly6",
+                "featuring": " ",
+                "imgFileName": "gothicMeltingIcecreamDarknessNightmare",
+                "won": false
+            },
+            "2": {
+                "songName": "sense",
+                "artist": "川田まみ",
+                "featuring": " ",
+                "imgFileName": "sense",
+                "won": false
+            },
+            "3": {
+                "songName": "Stand by me",
+                "artist": "the brilliant green",
+                "featuring": " ",
+                "imgFileName": "theBrilliantGreenCompleteSingleCollection",
+                "won": false
+            },
+            "4": {
+                "songName": "君の知らない物語",
+                "artist": "supercell",
+                "featuring": " ",
+                "imgFileName": "kiminoshiranaimonogatari",
+                "won": false
+            }
+        },
+        "artist": {
+            "0": {
+                "artist": "kotoko",
+                "imgFileName": "kotoko",
+                "won": false
+            },
+            "1": {
+                "artist": "the brilliant green",
+                "imgFileName": "theBrilliantGreen",
+                "won": false
+            },
+            "2": {
+                "artist": "Tommy heavenly6",
+                "imgFileName": "tommyHeavenly6",
+                "won": false
+            },
+            "3": {
+                "artist": "川田まみ",
+                "imgFileName": "kawadaMami",
+                "won": false
+            },
+            "4": {
+                "artist": "坂本真綾",
+                "imgFileName": "sakamotoMaaya",
+                "won": true
+            }
+        },
+        "record": {
+            "0": {
+                "songName": "Heavy Starry Chain",
+                "artist": "Tommy heavenly6",
+                "featuring": "",
+                "imgFileName": "gothicMeltingIcecreamDarknessNightmare",
+                "won": false
+            },
+            "1": {
+                "songName": "sense",
+                "artist": "川田まみ",
+                "featuring": "",
+                "imgFileName": "sense",
+                "won": false
+            },
+            "2": {
+                "songName": "There will be love there ~愛のある場所~",
+                "artist": "the brilliant green",
+                "featuring": "",
+                "imgFileName": "theBrilliantGreenCompleteSingleCollection",
+                "won": false
+            },
+            "3": {
+                "songName": "君の知らない物語",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "kiminoshiranaimonogatari",
+                "won": false
+            },
+            "4": {
+                "songName": "トライアングラー",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "triangler",
+                "won": true
+            }
+        }
+    },
+    "2010": {
+        "vocal": {
+            "0": {
+                "songName": "tune the rainbow",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "tuneTheRainbow",
+                "won": true
+            },
+            "1": {
+                "songName": "yield",
+                "artist": "Sound Horizon",
+                "featuring": "",
+                "imgFileName": "p_yield",
+                "won": false
+            },
+            "2": {
+                "songName": "うたかた花火",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "utakatahanabi",
+                "won": false
+            },
+            "3": {
+                "songName": "ストロボの空",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "lucy",
+                "won": false
+            },
+            "4": {
+                "songName": "ハジマリノウタ～遠い空澄んで～",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "hajimarinouta",
+                "won": false
+            }
+        },
+        "lyrics": {
+            "0": {
+                "songName": "Hello",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "yuunagiLoop",
+                "won": false
+            },
+            "1": {
+                "songName": "SAKURA",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "ikimonogakariMembersBestSelection",
+                "won": true
+            },
+            "2": {
+                "songName": "YELL",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "hajimarinouta",
+                "won": false
+            },
+            "3": {
+                "songName": "うたかた花火",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "utakatahanabi",
+                "won": false
+            },
+            "4": {
+                "songName": "隅田川夏恋歌",
+                "artist": "村井聖夜",
+                "featuring": "",
+                "imgFileName": "sumidakawanatsurenka",
+                "won": false
+            }
+        },
+        "arrangement": {
+            "0": {
+                "songName": "Private Sky",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "privateSky",
+                "won": false
+            },
+            "1": {
+                "songName": "tune the rainbow",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "tuneTheRainbow",
+                "won": false
+            },
+            "2": {
+                "songName": "嘘つきのパレート",
+                "artist": "supercell feat. 初音ミク",
+                "featuring": "",
+                "imgFileName": "supercellHatunemiku",
+                "won": true
+            },
+            "3": {
+                "songName": "星が瞬くこんな夜に",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "utakatahanabi",
+                "won": false
+            },
+            "4": {
+                "songName": "凛として咲く花の如く",
+                "artist": "紅色リトマス",
+                "featuring": "",
+                "imgFileName": "rintositesakuhananogotoku",
+                "won": false
+            }
+        },
+        "music": {
+            "0": {
+                "songName": "SAKURA",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "ikimonogakariMembersBestSelection",
+                "won": false
+            },
+            "1": {
+                "songName": "Tシャツ",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "lucy",
+                "won": false
+            },
+            "2": {
+                "songName": "君の知らない物語",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "kiminoshiranaimonogatari",
+                "won": false
+            },
+            "3": {
+                "songName": "ストロボの空",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "lucy",
+                "won": false
+            },
+            "4": {
+                "songName": "星が瞬くこんな夜に",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "utakatahanabi",
+                "won": true
+            }
+        },
+        "artist": {
+            "0": {
+                "artist": "Sound Horizon",
+                "imgFileName": "soundHorizon",
+                "won": false
+            },
+            "1": {
+                "artist": "supercell",
+                "imgFileName": "supercell",
+                "won": true
+            },
+            "2": {
+                "artist": "Tommy heavenly6",
+                "imgFileName": "tommyHeavenly6",
+                "won": false
+            },
+            "3": {
+                "artist": "いきものがかり",
+                "imgFileName": "ikimonogakari",
+                "won": false
+            },
+            "4": {
+                "artist": "坂本真綾",
+                "imgFileName": "sakamotoMaaya",
+                "won": false
+            }
+        },
+        "record": {
+            "0": {
+                "songName": "Private Sky",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "privateSky",
+                "won": false
+            },
+            "1": {
+                "songName": "さよならメモリーズ",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "sayonaraMemories",
+                "won": false
+            },
+            "2": {
+                "songName": "ストロボの空",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "lucy",
+                "won": false
+            },
+            "3": {
+                "songName": "君の知らない物語",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "kiminoshiranaimonogatari",
+                "won": true
+            },
+            "4": {
+                "songName": "星が瞬くこんな夜に",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "utakatahanabi",
+                "won": false
+            }
+        }
+    },
+    "2011": {
+        "vocal": {
+            "0": {
+                "songName": "Perfect Day",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "todayIsABeautifulDay",
+                "won": true
+            },
+            "1": {
+                "songName": "Sunshine Girl",
+                "artist": "moumoon",
+                "featuring": "",
+                "imgFileName": "spark",
+                "won": false
+            },
+            "2": {
+                "songName": "キミノセイ",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "youCantCatchMe",
+                "won": false
+            },
+            "3": {
+                "songName": "トモシビ",
+                "artist": "moumoon",
+                "featuring": "",
+                "imgFileName": "spark",
+                "won": false
+            },
+            "4": {
+                "songName": "秘密",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "youCantCatchMe",
+                "won": false
+            }
+        },
+        "lyrics": {
+            "0": {
+                "songName": "Perfect Day",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "todayIsABeautifulDay",
+                "won": true
+            },
+            "1": {
+                "songName": "Pride",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "pride",
+                "won": false
+            },
+            "2": {
+                "songName": "少女S",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "scandalBestSelection",
+                "won": false
+            },
+            "3": {
+                "songName": "トモシビ",
+                "artist": "moumoon",
+                "featuring": "",
+                "imgFileName": "spark",
+                "won": false
+            },
+            "4": {
+                "songName": "秘密",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "youCantCatchMe",
+                "won": false
+            }
+        },
+        "arrangement": {
+            "0": {
+                "songName": "GO-ON",
+                "artist": "UVERworld",
+                "featuring": "",
+                "imgFileName": "goOn",
+                "won": true
+            },
+            "1": {
+                "songName": "Hi-Hi-Hi",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "temptationBox",
+                "won": false
+            },
+            "2": {
+                "songName": "Perfect Day",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "todayIsABeautifulDay",
+                "won": false
+            },
+            "3": {
+                "songName": "少女S",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "scandalBestSelection",
+                "won": false
+            },
+            "4": {
+                "songName": "ひとつだけ",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "scandalBestSelection",
+                "won": false
+            }
+        },
+        "music": {
+            "0": {
+                "songName": "アナダガマワル",
+                "artist": "サカナクション",
+                "featuring": "",
+                "imgFileName": "scandalBestSelection",
+                "won": true
+            },
+            "1": {
+                "songName": "大声ダイヤモンド",
+                "artist": "AKB48",
+                "featuring": "",
+                "imgFileName": "oogoediamond",
+                "won": false
+            },
+            "2": {
+                "songName": "少女S",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "scandalBestSelection",
+                "won": false
+            },
+            "3": {
+                "songName": "青春ライン",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "ikimonogakariMembersBestSelection",
+                "won": false
+            },
+            "4": {
+                "songName": "天国に一番遠い場所",
+                "artist": "moumoon",
+                "featuring": "",
+                "imgFileName": "p_15doors",
+                "won": false
+            }
+        },
+        "video": {
+            "0": {
+                "songName": "アルクアラウンド",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "arukuAround",
+                "won": true
+            },
+            "1": {
+                "songName": "少女S",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "scandalBestSelection",
+                "won": false
+            },
+            "2": {
+                "songName": "秘密",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "youCantCatchMe",
+                "won": false
+            },
+            "3": {
+                "songName": "涙サプライズ！",
+                "artist": "AKB48",
+                "featuring": "",
+                "imgFileName": "namidaSurprise",
+                "won": false
+            },
+            "4": {
+                "songName": "ねぇ",
+                "artist": "Perfume",
+                "featuring": "",
+                "imgFileName": "nee",
+                "won": false
+            }
+        },
+        "artist": {
+            "0": {
+                "artist": "AKB48",
+                "imgFileName": "akb48",
+                "won": false
+            },
+            "1": {
+                "artist": "moumoon",
+                "imgFileName": "moumoon",
+                "won": false
+            },
+            "2": {
+                "artist": "SCANDAL",
+                "imgFileName": "scandal",
+                "won": true
+            },
+            "3": {
+                "artist": "supercell",
+                "imgFileName": "supercell",
+                "won": false
+            },
+            "4": {
+                "artist": "坂本真綾",
+                "imgFileName": "sakamotoMaaya",
+                "won": false
+            }
+        },
+        "record": {
+            "0": {
+                "songName": "Perfect Day",
+                "artist": "supercell",
+                "featuring": "",
+                "imgFileName": "todayIsABeautifulDay",
+                "won": false
+            },
+            "1": {
+                "songName": "Pride",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "pride",
+                "won": true
+            },
+            "2": {
+                "songName": "アナタガマワル",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "scandalBestSelection",
+                "won": false
+            },
+            "3": {
+                "songName": "大声ダイヤモンド",
+                "artist": "AKB48",
+                "featuring": "",
+                "imgFileName": "oogoediamond",
+                "won": false
+            },
+            "4": {
+                "songName": "少女S",
+                "artist": "SCANDAL",
+                "featuring": "",
+                "imgFileName": "scandalBestSelection",
+                "won": false
+            }
+        }
+    },
+    "2012": {
+        "vocal": {
+            "0": {
+                "songName": "441",
+                "artist": "miwa",
+                "featuring": "",
+                "imgFileName": "guitarium",
+                "won": false
+            },
+            "1": {
+                "songName": "Melt the snow in me",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "drivingInTheSilence",
+                "won": false
+            },
+            "2": {
+                "songName": "歩いて行こう",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "newtral",
+                "won": false
+            },
+            "3": {
+                "songName": "うたをうたおう",
+                "artist": "moumoon",
+                "featuring": "",
+                "imgFileName": "utawoutaou",
+                "won": false
+            },
+            "4": {
+                "songName": "誓い",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "drivingInTheSilence",
+                "won": true
+            }
+        },
+        "lyrics": {
+            "0": {
+                "songName": "Dear my teacher",
+                "artist": "AKB48",
+                "featuring": "",
+                "imgFileName": "a1st",
+                "won": false
+            },
+            "1": {
+                "songName": "Innocence",
+                "artist": "SKE48",
+                "featuring": "",
+                "imgFileName": "s2nd",
+                "won": true
+            },
+            "2": {
+                "songName": "思い出以上",
+                "artist": "SKE48",
+                "featuring": "",
+                "imgFileName": "s3rd",
+                "won": false
+            },
+            "3": {
+                "songName": "初日",
+                "artist": "AKB48",
+                "featuring": "",
+                "imgFileName": "b3rd",
+                "won": false
+            },
+            "4": {
+                "songName": "万華鏡",
+                "artist": "SKE48",
+                "featuring": "",
+                "imgFileName": "s3rd",
+                "won": false
+            }
+        },
+        "arrangement": {
+            "0": {
+                "songName": "0 GAME",
+                "artist": "SPYAIR",
+                "featuring": "",
+                "imgFileName": "p_0game",
+                "won": false
+            },
+            "1": {
+                "songName": "About You",
+                "artist": "浜崎あゆみ",
+                "featuring": "",
+                "imgFileName": "myStory",
+                "won": false
+            },
+            "2": {
+                "songName": "Rain",
+                "artist": "YUI",
+                "featuring": "",
+                "imgFileName": "rain",
+                "won": false
+            },
+            "3": {
+                "songName": "Sunday Drive",
+                "artist": "前田敦子",
+                "featuring": "",
+                "imgFileName": "kimihabokuda",
+                "won": true
+            },
+            "4": {
+                "songName": "笑ってたいんだ",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "newtral",
+                "won": false
+            }
+        },
+        "music": {
+            "0": {
+                "songName": "思い出以上",
+                "artist": "SKE48",
+                "featuring": "",
+                "imgFileName": "s3rd",
+                "won": false
+            },
+            "1": {
+                "songName": "風は吹いている",
+                "artist": "AKB48",
+                "featuring": "",
+                "imgFileName": "kazehafuiteiru",
+                "won": true
+            },
+            "2": {
+                "songName": "片想い",
+                "artist": "miwa",
+                "featuring": "",
+                "imgFileName": "guitarium",
+                "won": false
+            },
+            "3": {
+                "songName": "白いダイアリー",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "newtral",
+                "won": false
+            },
+            "4": {
+                "songName": "チャイムはLOVE SONG",
+                "artist": "SKE48",
+                "featuring": "",
+                "imgFileName": "s2nd",
+                "won": false
+            }
+        },
+        "artist": {
+            "0": {
+                "artist": "AKB48",
+                "imgFileName": "akb48",
+                "won": false
+            },
+            "1": {
+                "artist": "SKE48",
+                "imgFileName": "ske48",
+                "won": true
+            },
+            "2": {
+                "artist": "いきものがかり",
+                "imgFileName": "ikimonogakari",
+                "won": false
+            },
+            "3": {
+                "artist": "坂本真綾",
+                "imgFileName": "sakamotoMaaya",
+                "won": false
+            },
+            "4": {
+                "artist": "前田敦子",
+                "imgFileName": "maedaAtsuko",
+                "won": false
+            }
+        },
+        "record": {
+            "0": {
+                "songName": "0 GAME",
+                "artist": "SPYAIR",
+                "featuring": "",
+                "imgFileName": "p_0game",
+                "won": false
+            },
+            "1": {
+                "songName": "歩いて行こう",
+                "artist": "いきものがかり",
+                "featuring": "",
+                "imgFileName": "newtral",
+                "won": true
+            },
+            "2": {
+                "songName": "誓い",
+                "artist": "坂本真綾",
+                "featuring": "",
+                "imgFileName": "drivingInTheSilence",
+                "won": false
+            },
+            "3": {
+                "songName": "チャイムはLOVE SONG",
+                "artist": "SKE48",
+                "featuring": "",
+                "imgFileName": "s2nd",
+                "won": false
+            },
+            "4": {
+                "songName": "真夏のSounds good!",
+                "artist": "AKB48",
+                "featuring": "",
+                "imgFileName": "manatsunoSoundsGood",
+                "won": false
+            }
+        }
+    },
+    "2017": {
+        "vocal": {
+            "0": {
+                "songName": "Eraser",
+                "artist": "Ed Sheeran",
+                "featuring": "",
+                "imgFileName": "eraser",
+                "won": false
+            },
+            "1": {
+                "songName": "Extraordinary",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Sharna Bass)",
+                "imgFileName": "extraordinary",
+                "won": false
+            },
+            "2": {
+                "songName": "Glorious",
+                "artist": "Macklemore",
+                "featuring": "(feat. Skylar Grey)",
+                "imgFileName": "glorious",
+                "won": false
+            },
+            "3": {
+                "songName": "Symphony",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Zara Larsson)",
+                "imgFileName": "symphony",
+                "won": true
+            },
+            "4": {
+                "songName": "To Be Human",
+                "artist": "Sia",
+                "featuring": "feat. Labrinth",
+                "imgFileName": "toBeHuman",
+                "won": false
+            }
+        },
+        "lyrics": {
+            "0": {
+                "songName": "1-800-273-8255",
+                "artist": "Logic",
+                "featuring": "ft. Alessia Cara, Khalid",
+                "imgFileName": "p_18002738255",
+                "won": false
+            },
+            "1": {
+                "songName": "Eraser",
+                "artist": "Ed Sheeran",
+                "featuring": "",
+                "imgFileName": "eraser",
+                "won": true
+            },
+            "2": {
+                "songName": "Nancy Mulligan",
+                "artist": "Ed Sheeran",
+                "featuring": "",
+                "imgFileName": "nancyMulligan",
+                "won": false
+            },
+            "3": {
+                "songName": "Rockabye",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Sean Paul & Anne-Marie)",
+                "imgFileName": "rockabye",
+                "won": false
+            },
+            "4": {
+                "songName": "The A Team",
+                "artist": "Ed Sheeran",
+                "featuring": "",
+                "imgFileName": "theATeam",
+                "won": false
+            }
+        },
+        "arrangement": {
+            "0": {
+                "songName": "A+E",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Kandaka Moore & Nikki Cislyn)",
+                "imgFileName": "apluse",
+                "won": false
+            },
+            "1": {
+                "songName": "Dust Clears",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Noonie Bao)",
+                "imgFileName": "dustClears",
+                "won": false
+            },
+            "2": {
+                "songName": "Shape of You",
+                "artist": "Ed Sheeran",
+                "featuring": "",
+                "imgFileName": "shapeOfYou",
+                "won": false
+            },
+            "3": {
+                "songName": "Stressed Out",
+                "artist": "twenty one pilots",
+                "featuring": "",
+                "imgFileName": "stressedOut",
+                "won": false
+            },
+            "4": {
+                "songName": "Tears",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Louisa Johnson)",
+                "imgFileName": "tears",
+                "won": true
+            }
+        },
+        "music": {
+            "0": {
+                "songName": "Come Over",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Stylo G)",
+                "imgFileName": "comeOver",
+                "won": false
+            },
+            "1": {
+                "songName": "Despacito (Remix)",
+                "artist": "Luis Fonsi, Daddy Yankee",
+                "featuring": "ft. Justin Bieber",
+                "imgFileName": "despacito",
+                "won": true
+            },
+            "2": {
+                "songName": "Rockabye",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Sean Paul & Anne-Marie)",
+                "imgFileName": "rockabye",
+                "won": false
+            },
+            "3": {
+                "songName": "Tear In My Heart",
+                "artist": "twenty one pilots",
+                "featuring": "",
+                "imgFileName": "tearInMyHeart",
+                "won": false
+            },
+            "4": {
+                "songName": "Tears",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Louisa Johnson)",
+                "imgFileName": "tears",
+                "won": false
+            }
+        },
+        "video": {
+            "0": {
+                "songName": "1-800-273-8255",
+                "artist": "Logic",
+                "featuring": "ft. Alessia Cara, Khalid",
+                "imgFileName": "p_18002738255",
+                "won": true
+            },
+            "1": {
+                "songName": "Beautiful Now",
+                "artist": "Zedd",
+                "featuring": "(feat. Jon Bellion)",
+                "imgFileName": "beautifulNow",
+                "won": false
+            },
+            "2": {
+                "songName": " Rockabye",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Sean Paul & Anne-Marie)",
+                "imgFileName": "rockabye",
+                "won": false
+            },
+            "3": {
+                "songName": "Symphony",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Zara Larsson)",
+                "imgFileName": "symphony",
+                "won": false
+            },
+            "4": {
+                "songName": "インフルエンサー",
+                "artist": "乃木坂46",
+                "featuring": "",
+                "imgFileName": "influencer",
+                "won": false
+            }
+        },
+        "newartist": {
+            "0": {
+                "artist": "Ed Sheeran",
+                "imgFileName": "edSheeran",
+                "won": true
+            },
+            "1": {
+                "artist": "Macklemore",
+                "imgFileName": "macklemore",
+                "won": false
+            },
+            "2": {
+                "artist": "Nina Nesbitt",
+                "imgFileName": "ninaNesbitt",
+                "won": false
+            },
+            "3": {
+                "artist": "La Oreja de Van Gogh",
+                "imgFileName": "laOrejaDeVanGogh",
+                "won": false
+            },
+            "4": {
+                "artist": "Sean Paul",
+                "imgFileName": "seanPaul",
+                "won": false
+            }
+        },
+        "artist": {
+            "0": {
+                "artist": "Avicii",
+                "imgFileName": "avicii",
+                "won": false
+            },
+            "1": {
+                "artist": "Clean Bandit",
+                "imgFileName": "cleanBandit",
+                "won": true
+            },
+            "2": {
+                "artist": "Ed Sheeran",
+                "imgFileName": "edSheeran",
+                "won": false
+            },
+            "3": {
+                "artist": "twenty one pilots",
+                "imgFileName": "twentyOnePilots",
+                "won": false
+            },
+            "4": {
+                "artist": "欅坂46",
+                "imgFileName": "keyakizaka46",
+                "won": false
+            }
+        },
+        "record": {
+            "0": {
+                "songName": "Eraser",
+                "artist": "Ed Sheeran",
+                "featuring": "",
+                "imgFileName": "eraser",
+                "won": false
+            },
+            "1": {
+                "songName": "Despacito (Remix)",
+                "artist": "Luis Fonsi, Daddy Yankee",
+                "featuring": "ft. Justin Bieber",
+                "imgFileName": "despacito",
+                "won": false
+            },
+            "2": {
+                "songName": "Glorious",
+                "artist": "Macklemore",
+                "featuring": "(feat. Skylar Grey)",
+                "imgFileName": "glorious",
+                "won": false
+            },
+            "3": {
+                "songName": "Rockabye",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Sean Paul & Anne-Marie)",
+                "imgFileName": "rockabye",
+                "won": true
+            },
+            "4": {
+                "songName": "Tears",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Louisa Johnson)",
+                "imgFileName": "tears",
+                "won": false
+            }
+        }
+    },
+    "2018": {
+        "vocal": {
+            "0": {
+                "songName": "Baby",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Marina & Luis Fonsi)",
+                "imgFileName": "baby",
+                "won": false
+            },
+            "1": {
+                "songName": "Dusk Till Dawn",
+                "artist": "ZAYN",
+                "featuring": "(feat. Sia)",
+                "imgFileName": "duskTillDawn",
+                "won": true
+            },
+            "2": {
+                "songName": "All The Stars",
+                "artist": "Kendrick Lamar, SZA",
+                "featuring": "",
+                "imgFileName": "allTheStars",
+                "won": false
+            },
+            "3": {
+                "songName": "Mama",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. Ellie Goulding)",
+                "imgFileName": "whatIsLove",
+                "won": false
+            },
+            "4": {
+                "songName": "Stranger Things",
+                "artist": "Kygo",
+                "featuring": "(feat. OneRepublic)",
+                "imgFileName": "kidsInLove",
+                "won": false
+            }
+        },
+        "lyrics": {
+            "0": {
+                "songName": "All The Stars",
+                "artist": "Kendrick Lamar, SZA",
+                "featuring": "",
+                "imgFileName": "allTheStars",
+                "won": true
+            },
+            "1": {
+                "songName": "アンビバレント",
+                "artist": "欅坂46",
+                "featuring": "",
+                "imgFileName": "anbivalent",
+                "won": false
+            },
+            "2": {
+                "songName": "This Is America",
+                "artist": "Childish Gambino",
+                "featuring": "",
+                "imgFileName": "thisIsAmerica",
+                "won": false
+            },
+            "3": {
+                "songName": "Stranger Things",
+                "artist": "Kygo",
+                "featuring": "(feat. OneRepublic)",
+                "imgFileName": "kidsInLove",
+                "won": false
+            },
+            "4": {
+                "songName": "Let Me Go",
+                "artist": "Hailee Steinfeld & Alesso",
+                "featuring": "ft. Florida Georgia Line, WATT",
+                "imgFileName": "letMeGo",
+                "won": false
+            }
+        },
+        "arrangement": {
+            "0": {
+                "songName": "All The Stars",
+                "artist": "Kendrick Lamar, SZA",
+                "featuring": "",
+                "imgFileName": "allTheStars",
+                "won": true
+            },
+            "1": {
+                "songName": "RISE",
+                "artist": "League of Legends",
+                "featuring": "(ft. The Glitch Mob, Mako, and The Word Alive)",
+                "imgFileName": "rise",
+                "won": false
+            },
+            "2": {
+                "songName": "Octavo Dia",
+                "artist": "Shakira",
+                "featuring": "",
+                "imgFileName": "octavoDia",
+                "won": false
+            },
+            "3": {
+                "songName": "Stargazing",
+                "artist": "Kygo",
+                "featuring": "(feat. Justin Jesso)",
+                "imgFileName": "kidsInLove",
+                "won": false
+            },
+            "4": {
+                "songName": "In Us I Believe",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. ALMA)",
+                "imgFileName": "whatIsLove",
+                "won": false
+            }
+        },
+        "music": {
+            "0": {
+                "songName": "Octavo Dia",
+                "artist": "Shakira",
+                "featuring": "",
+                "imgFileName": "octavoDia",
+                "won": true
+            },
+            "1": {
+                "songName": "Dusk Till Dawn",
+                "artist": "ZAYN",
+                "featuring": "(feat. Sia)",
+                "imgFileName": "duskTillDawn",
+                "won": false
+            },
+            "2": {
+                "songName": "In Us I Believe",
+                "artist": "Clean Bandit",
+                "featuring": "(feat. ALMA)",
+                "imgFileName": "whatIsLove",
+                "won": false
+            },
+            "3": {
+                "songName": "Tragic Endings",
+                "artist": "Eminem",
+                "featuring": "ft. Skylar Grey",
+                "imgFileName": "revival",
+                "won": false
+            },
+            "4": {
+                "songName": "Him & I",
+                "artist": "G-Eazy & Hasley",
+                "featuring": "",
+                "imgFileName": "himAndI",
+                "won": false
+            }
+        },
+        "video": {
+            "0": {
+                "songName": "RISE",
+                "artist": "League of Legends",
+                "featuring": "(ft. The Glitch Mob, Mako, and The Word Alive)",
+                "imgFileName": "rise",
+                "won": true
+            },
+            "1": {
+                "songName": "All The Stars",
+                "artist": "Kendrick Lamar, SZA",
+                "featuring": "",
+                "imgFileName": "allTheStars",
+                "won": false
+            },
+            "2": {
+                "songName": "アンビバレント",
+                "artist": "欅坂46",
+                "featuring": "",
+                "imgFileName": "anbivalent",
+                "won": false
+            },
+            "3": {
+                "songName": "This Is America",
+                "artist": "Childish Gambino",
+                "featuring": "",
+                "imgFileName": "thisIsAmerica",
+                "won": false
+            },
+            "4": {
+                "songName": "River",
+                "artist": "Eminem",
+                "featuring": "ft. Ed Sheeran",
+                "imgFileName": "revival",
+                "won": false
+            }
+        },        
+        "artist": {
+            "0": {
+                "artist": "Eminem",
+                "imgFileName": "eminem",
+                "won": true
+            },
+            "1": {
+                "artist": "Clean Bandit",
+                "imgFileName": "cleanBandit",
+                "won": false
+            },
+            "2": {
+                "artist": "Kygo",
+                "imgFileName": "kygo",
+                "won": false
+            },
+            "3": {
+                "artist": "Kendrick Lamar",
+                "imgFileName": "kendrickLamar",
+                "won": false
+            },
+            "4": {
+                "artist": "N.W.A.",
+                "imgFileName": "nwa",
+                "won": false
+            }
+        },
+        "record": {
+            "0": {
+                "songName": "RISE",
+                "artist": "League of Legends",
+                "featuring": "(ft. The Glitch Mob, Mako, and The Word Alive)",
+                "imgFileName": "rise",
+                "won": false
+            },
+            "1": {
+                "songName": "All The Stars",
+                "artist": "Kendrick Lamar, SZA",
+                "featuring": "",
+                "imgFileName": "allTheStars",
+                "won": true
+            },
+            "2": {
+                "songName": "Octavo Dia",
+                "artist": "Shakira",
+                "featuring": "",
+                "imgFileName": "octavoDia",
+                "won": false
+            },
+            "3": {
+                "songName": "Tragic Endings",
+                "artist": "Eminem",
+                "featuring": "ft. Skylar Grey",
+                "imgFileName": "revival",
+                "won": false
+            },
+            "4": {
+                "songName": "Dusk Till Dawn",
+                "artist": "ZAYN",
+                "featuring": "(feat. Sia)",
+                "imgFileName": "duskTillDawn",
+                "won": false
+            }
+        }        
+    }
+}
