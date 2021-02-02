@@ -1,10 +1,10 @@
 {
   "name": "chika-music-awards",
-  "homepage": "https://asukachikaru.github.io/chika-music-awards-2018",
+  "homepage": "https://2018.musicawards.asukachikaru.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.14.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "^2.1.2"
