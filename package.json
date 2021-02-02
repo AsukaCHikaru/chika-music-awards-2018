@@ -1,5 +1,6 @@
 {
   "name": "chika-music-awards",
+  "homepage": "https://asukachikaru.github.io/chika-music-awards-2018",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
